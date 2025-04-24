@@ -1,0 +1,100 @@
+[
+  {
+    "fullname": "John Doe",
+    "username": "johndoe",
+    "email": "johndoe@example.com",
+    "password": "$2b$10$QiT63r6DaoBoQfZpPmWQou9BFk0TOTsVsasDUSKvG3MX.n93Ezn7a",
+    "profile_image": "/no_img.png",
+    "birthdate": "1990-05-15",
+    "genre": "MASCULINO",
+    "interests": ["Música", "Tecnología", "Cine"],
+    "location": {
+      "x": -34.611778,
+      "y": -58.417309
+    }
+  },
+  {
+    "fullname": "Jane Smith",
+    "username": "janesmith",
+    "email": "janesmith@example.com",
+    "password": "$2b$10$QiT63r6DaoBoQfZpPmWQou9BFk0TOTsVsasDUSKvG3MX.n93Ezn7a",
+    "profile_image": "/no_img.png",
+    "birthdate": "1985-08-23",
+    "genre": "FEMENINO",
+    "interests": ["Arte", "Cine", "Literatura"],
+    "location": {
+      "x": -32.944198,
+      "y": -60.736302
+    }
+  },
+  {
+    "fullname": "Sarah Williams",
+    "username": "sarahwilliams",
+    "email": "sarah@example.com",
+    "password": "$2b$10$QiT63r6DaoBoQfZpPmWQou9BFk0TOTsVsasDUSKvG3MX.n93Ezn7a",
+    "profile_image": "/no_img.png",
+    "birthdate": "1998-01-18",
+    "genre": "FEMENINO",
+    "interests": ["Viajes", "Gastronomía", "Arte"],
+    "location": {
+      "x": -42.780202,
+      "y": -65.039570
+    }
+  },
+  {
+    "fullname": "Emily Davis",
+    "username": "emilydavis",
+    "email": "emily@example.com",
+    "password": "$2b$10$QiT63r6DaoBoQfZpPmWQou9BFk0TOTsVsasDUSKvG3MX.n93Ezn7a",
+    "profile_image": "/no_img.png",
+    "birthdate": "1993-07-30",
+    "genre": "FEMENINO",
+    "interests": ["Música", "Cine", "Fotografía"],
+    "location": {
+      "x": -24.786007,
+      "y": -65.408058
+    }
+  },
+  {
+    "fullname": "William Martinez",
+    "username": "williammartinez",
+    "email": "william@example.com",
+    "password": "$2b$10$QiT63r6DaoBoQfZpPmWQou9BFk0TOTsVsasDUSKvG3MX.n93Ezn7a",
+    "profile_image": "/no_img.png",
+    "birthdate": "1987-03-25",
+    "genre": "MASCULINO",
+    "interests": ["Deportes", "Tecnología", "Fotografía"],
+    "location": {
+      "x": -30.039585,
+      "y": -51.479474
+    }
+  },
+  {
+    "fullname": "Ana González",
+    "username": "anagonzalez",
+    "email": "ana@example.cl",
+    "password": "$2b$10$QiT63r6DaoBoQfZpPmWQou9BFk0TOTsVsasDUSKvG3MX.n93Ezn7a",
+    "profile_image": "/no_img.png",
+    "birthdate": "1992-05-10",
+    "genre": "FEMENINO",
+    "interests": ["Música", "Arte", "Literatura"],
+    "location": {
+      "x": -33.448899,
+      "y": -70.669265
+    }
+  },
+  {
+    "fullname": "Carlos Soto",
+    "username": "carlossoto",
+    "email": "carlos@example.cl",
+    "password": "$2b$10$QiT63r6DaoBoQfZpPmWQou9BFk0TOTsVsasDUSKvG3MX.n93Ezn7a",
+    "profile_image": "/no_img.png",
+    "birthdate": "1987-12-17",
+    "genre": "MASCULINO",
+    "interests": ["Deportes", "Fotografía", "Viajes"],
+    "location": {
+      "x": -33.469119,
+      "y": -70.642217
+    }
+  }
+]
