@@ -14,8 +14,8 @@
 
 ## 🌟 Funcionalidades
 
-- 🔐 **Autenticación**  
-  Registro con email, login con usuario o Google OAuth. Manejo de JWT para sesiones seguras.
+- 🔐 **Autenticación**
+  - Registro con email, login con usuario o Google OAuth. Manejo de JWT para sesiones seguras.
 
 - 🧑‍🤝‍🧑 **Usuarios**
   - Seguidores / seguidos
