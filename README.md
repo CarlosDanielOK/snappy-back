@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 **SnappyFriends** es una API desarrollada con [NestJS](https://nestjs.com), pensada para alimentar una red social moderna e interactiva. Permite crear publicaciones, enviar y recibir mensajes, recibir notificaciones en tiempo real, seguir cuentas, y mucho más.
-- **Deploy**: https://snappy-back-si83.onrender.com/api
+🔗 **Deploy:** https://snappy-back-si83.onrender.com/api
 
 > 🛠 Este es mi proyecto final del bootcamp Henry, seleccionado como el mejor del bootcamp y presentado en la **Demo Day** ante empresas.
 
