@@ -4,9 +4,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-v4.9-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**SnappyFriends** es una API desarrollada con [NestJS](https://nestjs.com), pensada para alimentar una red social moderna e interactiva. Permite crear publicaciones, enviar mensajes, recibir notificaciones en tiempo real y mucho más.
+**SnappyFriends** es una API desarrollada con [NestJS](https://nestjs.com), pensada para alimentar una red social moderna e interactiva. Permite crear publicaciones, enviar y recibir mensajes, recibir notificaciones en tiempo real, seguir cuentas, y mucho más.
 
-> 🛠 Proyecto final del bootcamp Henry, seleccionado como uno de los mejores y presentado en la **Demo Day** ante empresas.
+> 🛠 Este es mi proyecto final del bootcamp Henry, seleccionado como el mejor del bootcamp y presentado en la **Demo Day** ante empresas.
 
 ---
 
@@ -19,6 +19,7 @@
   - Seguidores / seguidos
   - Intereses y perfiles personalizados
   - Subida de foto de perfil
+  - Personalizar el perfil
 
 - 📝 **Publicaciones**
   - Crear, editar, eliminar posts
@@ -41,7 +42,7 @@
   - Logs de acciones administrativas
 
 - 💎 **Suscripciones premium**
-  - Sistema de planes y pagos (a integrar)
+  - Sistema de planes y pagos
 
 ---
 
@@ -63,13 +64,13 @@
 ### Requisitos previos
 - Node.js v14+
 - npm o yarn
-- PostgreSQL o MySQL
+- PostgreSQL
 
 ### Pasos
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/snappy-back.git
+git clone https://github.com/CarlosDanielOK/snappy-back.git
 cd snappy-back
 
 # Instalar dependencias
